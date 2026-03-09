@@ -71,7 +71,7 @@ gh auth status
 
 ```bash
 # 1. Create Next.js project
-cd /data/workspace-maker
+cd /data/claude-sandbox
 npx create-next-app@latest job-applier \
   --typescript \
   --tailwind \
